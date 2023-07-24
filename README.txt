@@ -1,6 +1,6 @@
 Abdumalik_96 Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
 
-Product Page: https://64be2e2ac1e59437113b71d0--fantastic-daifuku-02a6d7.netlify.app/public_html/
+Product Page: https://64b93ea8fbb181079c56c2b7--gilded-cupcake-f9df16.netlify.app/public_html/
 
 Credits:
 
